@@ -452,7 +452,7 @@ This demonstrates the core value of the Sprint 1 Bootstrap Restyling work withou
 
 ---
 
-# 17. Decision Status
+## 17. Decision Status
 
 **Candidate Core MVP:** Defined
 
@@ -466,18 +466,20 @@ This demonstrates the core value of the Sprint 1 Bootstrap Restyling work withou
 
 **Open Questions:** Documented
 
-**Client Clarifications:** Prepared for PM
+**Client Clarifications:** Prepared and shared with PM
 
 **UX Handoff:** Ready
 
 **Developer Handoff:** Ready
 
-**Final Client Approval:** Pending clarification responses
+**Client Meeting Status:** Client meeting agenda was already finalised; additional BA clarification questions could not be added to the meeting agenda. PM has reviewed the situation and confirmed that this is acceptable.
+
+**Final Client Approval:** Pending future clarification where required
 
 ---
 
-# 18. BA Status
+## 18. BA Status
 
-**Status:** CORE MVP DEFINED — PENDING CLIENT CLARIFICATIONS
+**Status: CORE MVP DEFINED — READY FOR PM / UX / DEVELOPER REVIEW**
 
-The candidate Core MVP is aligned with the Sprint 1 Requirements Baseline and does not introduce requirements outside the approved Bootstrap Restyling scope.
+The candidate Core MVP is aligned with the Sprint 1 Bootstrap Restyling requirements. All known requirements, assumptions, acceptance criteria and unresolved questions have been documented. The outstanding clarification questions have been communicated to the PM, with the PM confirming that the already-finalised client meeting does not need to be amended. 
